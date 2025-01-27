@@ -1,2 +1,2 @@
-# MaxBpatcher
-A collection of the bpatcher objects I have created for use within Max.
+# MaxConcrete
+A collection of bpatcher objects I created for use in Max, designed to aid in creating musique concrète-inspired music.
